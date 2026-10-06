@@ -1,4 +1,4 @@
-# LabFlow —SDLMS
+# #LabFlow —SDLMS
 
 LabFlow is a microservices-based platform for managing the end-to-end workflow of a diagnostic laboratory: patient registration, doctor referrals, test bookings, sample collection, results, verification, billing, notifications, reporting, and a unified dashboard — all fronted by a single API gateway and a React web app.
 
